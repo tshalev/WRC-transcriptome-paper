@@ -1,1 +1,1 @@
-Supplemental datasets for Shalev et al. 2018. An annotated transcriptome of highly inbred Thuja plicata (Cupressaceae) and its utility for gene discovery of terpenoid biosynthesis and conifer defense. https://doi.org/10.1007/s11295-018-1248-y
+Supplemental datasets for Shalev et al. 2018. An annotated transcriptome of highly inbred <i>Thuja plicata</i> (Cupressaceae) and its utility for gene discovery of terpenoid biosynthesis and conifer defense. https://doi.org/10.1007/s11295-018-1248-y
